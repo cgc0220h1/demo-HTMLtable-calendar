@@ -1,0 +1,30 @@
+table{
+    width: 400px;
+    margin: 20px auto;
+    font-size: 13px;
+    table-layout: fixed;
+}
+body{
+    font-family: Arial, serif;
+    text-align: center;
+}
+.title-cal td {
+    background-color: orange;
+    color: white;
+    width: 70px;
+    height: 20px;
+}
+.sun{
+    color: red;
+}
+.sat{
+    color: blue;
+}
+.body-cal td,tr{
+    border: gray 1px solid;
+    height: 30px;
+    width: 70px;
+}
+sub{
+    font-size: 9px;
+}
